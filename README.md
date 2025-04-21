@@ -6,6 +6,8 @@ This project demonstrates how to integrate a **3D globe** created with **Spline*
 
 I messed around with **Spline** and created a simple 3D globe. This globe is embedded in a Next.js app using an `<iframe>`, allowing it to be displayed directly on the page.
 
+![Website with Globe](/public/web.png)
+
 ## 🚀 How to Use
 
 1. Clone the repo and install dependencies:
@@ -20,18 +22,15 @@ I messed around with **Spline** and created a simple 3D globe. This globe is emb
    npm run dev
    ```
 
-3. Go to http://localhost:3000 to see the 3D globe in action.
+3. Go to [http://localhost:3000](http://localhost:3000) to see the 3D globe in action.
 
-4. Go to [http://localhost:3000](http://localhost:3000) to see the 3D globe in action.
-
----
 
 ## 🎨 Tools Used
 
 - Next.js – for building the app
 - Spline – for designing the 3D globe
 
----
+
 
 ## 🌍 Check out the 3D Globe
 
